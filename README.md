@@ -2,7 +2,7 @@
 
 <h3>Microsoft Manifest Tool version 6.1.7716.0 - x86+x64<br/>From Windows SDK 7.1, <code>bin/</code> and <code>bin/x64</code> folders.</h3>
 
-Note: Windows SDK 7.1 does not seems to have <code>mt.exe</code> for x64 architecture (or maybe I've deleted it.. <em>oooppssss...</em>)
+Note: Windows SDK 7.1 does not seems to have <code>mt.exe</code> for x64 architecture (or maybe I've deleted it..)
 So I've included the (older) <code>version 5.2.3790.2076</code> for x64, from Windows SDK 7.0, the config file is same from the x86 of Windows 7.1, but you don't need it.
 
 How to use:
